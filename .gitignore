@@ -1,10 +1,9 @@
 ### IntelliJ IDEA ###
 out/
-
 .idea/
 GitTest9.iml
 **/*.log
-
+git-test9.iml
 
 
 ### Mac OS ###
